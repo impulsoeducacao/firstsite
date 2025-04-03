@@ -8,13 +8,6 @@ HTML5: Estrutura do site
 
 CSS3: Estilização da página
 
-📂 Estrutura do Projeto
-
-firstsite/
-├── index.html  # Página principal
-├── styles/
-│   ├── style.css  # Estilos gerais
-
 🚀 Como Executar o Projeto
 
 Clone este repositório:
